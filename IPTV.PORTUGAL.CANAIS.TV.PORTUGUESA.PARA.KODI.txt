@@ -1,0 +1,42 @@
+http://malaguetatv.com:9511/live/malaguetatv.com/malaguetatv@hotmail.com/1.ts #Name: RTP 1
+http://malaguetatv.com:9511/live/malaguetatv.com/malaguetatv@hotmail.com/2.ts #Name: RTP 2
+http://malaguetatv.com:9511/live/malaguetatv.com/malaguetatv@hotmail.com/3.ts #Name: SIC
+http://malaguetatv.com:9511/live/malaguetatv.com/malaguetatv@hotmail.com/4.ts #Name: TVI
+http://malaguetatv.com:9511/live/malaguetatv.com/malaguetatv@hotmail.com/5.ts #Name: SIC NOTICIAS
+http://malaguetatv.com:9511/live/malaguetatv.com/malaguetatv@hotmail.com/6.ts #Name: TVI 24
+http://malaguetatv.com:9511/live/malaguetatv.com/malaguetatv@hotmail.com/7.ts #Name: RTP INFORMACAO
+http://malaguetatv.com:9511/live/malaguetatv.com/malaguetatv@hotmail.com/8.ts #Name: TV GLOBO PORTUGAL
+http://malaguetatv.com:9511/live/malaguetatv.com/malaguetatv@hotmail.com/9.ts #Name: RTP ACORES ( Canal On Line )
+http://malaguetatv.com:9511/live/malaguetatv.com/malaguetatv@hotmail.com/10.ts #Name: RTP MADEIRA ( Canal On Line )
+http://malaguetatv.com:9511/live/malaguetatv.com/malaguetatv@hotmail.com/11.ts #Name: SPORT TV 1
+http://malaguetatv.com:9511/live/malaguetatv.com/malaguetatv@hotmail.com/12.ts #Name: SPORT TV 2
+http://malaguetatv.com:9511/live/malaguetatv.com/malaguetatv@hotmail.com/13.ts #Name: SPORT TV 3
+http://malaguetatv.com:9511/live/malaguetatv.com/malaguetatv@hotmail.com/14.ts #Name: SPORT TV 4
+http://malaguetatv.com:9511/live/malaguetatv.com/malaguetatv@hotmail.com/15.ts #Name: SPORT TV 5
+http://malaguetatv.com:9511/live/malaguetatv.com/malaguetatv@hotmail.com/16.ts #Name: SPORT TV 1 HD
+http://malaguetatv.com:9511/live/malaguetatv.com/malaguetatv@hotmail.com/17.ts #Name: BENFICA TV 1
+http://malaguetatv.com:9511/live/malaguetatv.com/malaguetatv@hotmail.com/18.ts #Name: BENFICA TV 2
+http://malaguetatv.com:9511/live/malaguetatv.com/malaguetatv@hotmail.com/19.ts #Name: SPORTING TV
+http://malaguetatv.com:9511/live/malaguetatv.com/malaguetatv@hotmail.com/20.ts #Name: DISNEY
+http://malaguetatv.com:9511/live/malaguetatv.com/malaguetatv@hotmail.com/21.ts #Name: PANDA
+http://malaguetatv.com:9511/live/malaguetatv.com/malaguetatv@hotmail.com/22.ts #Name: PANDA BIGGS
+http://malaguetatv.com:9511/live/malaguetatv.com/malaguetatv@hotmail.com/23.ts #Name: DISNEY JUNIOR
+http://malaguetatv.com:9511/live/malaguetatv.com/malaguetatv@hotmail.com/24.ts #Name: SIC K
+http://malaguetatv.com:9511/live/malaguetatv.com/malaguetatv@hotmail.com/25.ts #Name: BABY TV
+http://malaguetatv.com:9511/live/malaguetatv.com/malaguetatv@hotmail.com/26.ts #Name: CARTOON NETWORK
+http://malaguetatv.com:9511/live/malaguetatv.com/malaguetatv@hotmail.com/27.ts #Name: JIM JAM
+http://malaguetatv.com:9511/live/malaguetatv.com/malaguetatv@hotmail.com/28.ts #Name: TVCINE 1
+http://malaguetatv.com:9511/live/malaguetatv.com/malaguetatv@hotmail.com/29.ts #Name: TVCINE 2
+http://malaguetatv.com:9511/live/malaguetatv.com/malaguetatv@hotmail.com/30.ts #Name: TVCINE 3
+http://malaguetatv.com:9511/live/malaguetatv.com/malaguetatv@hotmail.com/31.ts #Name: TVCINE 4
+http://malaguetatv.com:9511/live/malaguetatv.com/malaguetatv@hotmail.com/32.ts #Name: AXN SD
+http://malaguetatv.com:9511/live/malaguetatv.com/malaguetatv@hotmail.com/33.ts #Name: FOX
+http://malaguetatv.com:9511/live/malaguetatv.com/malaguetatv@hotmail.com/34.ts #Name: RTP INTERNACIONAL ( Canal On Line )
+http://malaguetatv.com:9511/live/malaguetatv.com/malaguetatv@hotmail.com/35.ts #Name: RTP AFRICA ( Canal On Line )
+http://malaguetatv.com:9511/live/malaguetatv.com/malaguetatv@hotmail.com/36.ts #Name: RTP MEMORIA ( Canal On Line )
+http://malaguetatv.com:9511/live/malaguetatv.com/malaguetatv@hotmail.com/37.ts #Name: TV RECORD PORTUGAL
+http://malaguetatv.com:9511/live/malaguetatv.com/malaguetatv@hotmail.com/38.ts #Name: ETV ( Canal On Line )
+http://malaguetatv.com:9511/live/malaguetatv.com/malaguetatv@hotmail.com/39.ts #Name: TVE 24 ( Canal On Line )
+http://malaguetatv.com:9511/live/malaguetatv.com/malaguetatv@hotmail.com/40.ts #Name: HOT
+http://malaguetatv.com:9511/live/malaguetatv.com/malaguetatv@hotmail.com/41.ts #Name: PLAYBOY
+http://malaguetatv.com:9511/live/malaguetatv.com/malaguetatv@hotmail.com/42.ts #Name: VENUS
